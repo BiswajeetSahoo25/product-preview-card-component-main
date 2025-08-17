@@ -8,9 +8,8 @@ This is my solution to the [Product Preview Card Component challenge on Frontend
 
 - Fully responsive for mobile and desktop  
 - Hover and focus effects on buttons  
-- Semantic HTML structure  
-- Styled using CSS Flexbox and Grid  
-- Built with React, Next.js, and Styled Components  
+- Semantic HTML structure   
+- Built with Html and Css
 
 ---
 
